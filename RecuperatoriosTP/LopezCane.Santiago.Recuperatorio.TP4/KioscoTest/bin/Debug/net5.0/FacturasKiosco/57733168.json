@@ -1,0 +1,12 @@
+{
+  "Total": 90,
+  "Fecha": "2022-08-08T05:37:13.1187535-03:00",
+  "Productos": [
+    {
+      "Nombre": "Alfajor Jorgito",
+      "Descripcion": "",
+      "Precio": 90
+    }
+  ],
+  "ImpuestosAlDia": false
+}
